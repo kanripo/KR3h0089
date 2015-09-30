@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定西清古鑑
+#+DATE: 2015-08-24 23:17:04.525831
+#+PROPERTY: ID KR3h0089
+#+PROPERTY: BASEEDITION WYG    
